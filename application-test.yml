@@ -1,0 +1,9 @@
+first:
+  block:
+    hello: "Hello world"
+    some: "it's some value for var first"
+
+second: 
+  block:
+    hello: "Hello config server"
+    some: "it's some value for var second"
