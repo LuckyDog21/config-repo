@@ -1,6 +1,6 @@
 first:
   block:
-    hello: "new value for real-time"
+    hello: "real-time"
     some: "it's some value for var first"
 
 second: 
