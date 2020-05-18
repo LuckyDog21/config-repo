@@ -1,6 +1,6 @@
 first:
   block:
-    hello: "Hello world"
+    hello: "new value"
     some: "it's some value for var first"
 
 second: 
